@@ -1,0 +1,5 @@
+{
+  "name": "TripSplit",
+  "description": "A simple and intuitive app to manage group trips and split expenses automatically.",
+  "requestFramePermissions": []
+}
